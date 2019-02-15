@@ -13,7 +13,7 @@ There is a description of the problem, but it's in chinese. Also the code are we
 I worte so many comments for my professor's reading, but he didn't spend much time in it. I'm really disappointed. :(
 
 ## Usage
-The running results are just some plain numbers showing the time each algorithm used to solve the given problem.
+The running results are just some plain numbers showing the time each algorithm used in the given problem.
 
 There is a data genertor written in python. Run it and you can get a new data file.
 ```shell
