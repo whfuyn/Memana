@@ -17,5 +17,5 @@ for i in range(T + 1):
 
 data = '%d %d\n' % (n, M) + data
 
-with open('data\\input2.txt', 'w') as f:
+with open('data\\input.txt', 'w') as f:
     f.write(data)
