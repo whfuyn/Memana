@@ -1,7 +1,7 @@
 # Memana
 An implementation of various memory management algorithms(first/next/best/worst fit).
 
-It only use the C's malloc once to obtain the basic memory, not additionaly allocations needed for the memory of nodes or anything.
+It only use the C's malloc once to obtain the basic memory, not additionaly allocations needed for the memory of nodes.
 Nodes used in the algorithm are directly encoded into the initial memory and manipulated by the C's pointer operations.
 
 -----
